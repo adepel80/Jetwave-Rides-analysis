@@ -30,6 +30,8 @@ Map Visualization Tools – For geographical route and city-level insights.
 
 # Dashboard Features
 
+<img width="1918" height="1040" alt="Image" src="https://github.com/user-attachments/assets/b0aa4a5c-1adc-4dc1-8b10-23a9e64023c6" />
+
 # Overview Page:
 
 Total trips, total revenue, average fare, Total distance, Active users, Average rating.
